@@ -1,7 +1,9 @@
 # Proyecto De Graduacion
 Este repositorio contiene el desarrollo de herramientas de software y documentación relacionada con el proyecto de control  individual, seguro y simple del cuadricóptero Crazyflie 2.1 utilizando la placa de expansión de posicionamiento Flow Deck. El objetivo es facilitar el uso independiente de este microdron en entornos educativos y de investigación en la Universidad del Valle de Guatemala.
 
-![Crazyflie 2.1](https://www.bitcraze.io/images/crazyflie2-1/crazyflie_2.1_585px.jpg)
+<div align="center">
+  <img src="Figuras/Crazyflie.jpg" alt="Crazyflie 2.1">
+</div>
 
 Estructura del Repositorio
   - Herramientas de software: Contiene los algoritmos y scripts desarrollados en Python y MATLAB para el control del dron. Incluye funciones para conexión, control de vuelo, y procesamiento de datos de los sensores integrados en la placa de expansión Flow Deck. Estos scripts permiten ejecutar experimentos de control y monitoreo de posición, y están diseñados para integrarse con sistemas de captura de movimiento y simuladores.
