@@ -2,7 +2,7 @@
 Este repositorio contiene el desarrollo de herramientas de software y documentación relacionada con el proyecto de control  individual, seguro y simple del cuadricóptero Crazyflie 2.1 utilizando la placa de expansión de posicionamiento Flow Deck. El objetivo es facilitar el uso independiente de este microdron en entornos educativos y de investigación en la Universidad del Valle de Guatemala.
 
 <div align="center">
-  <img src="Figuras/Crazyflie.jpg" alt="Crazyflie 2.1">
+  <img src="Figuras/Crazyflie.jpg" alt="Crazyflie 2.1" width="50%">
 </div>
 
 Estructura del Repositorio
