@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Prefacio}{15}{section*.65}%
+\contentsline {section}{Lista de figuras}{15}{section*.66}%
+\contentsline {section}{Resumen}{15}{section*.67}%
+\contentsline {section}{Abstract}{15}{section*.68}%
+\contentsline {section}{Introducción}{15}{section*.69}%
+\contentsline {section}{Antecedentes}{15}{section*.70}%
+\contentsline {section}{Justificación}{15}{section*.71}%
+\contentsline {section}{Objetivos}{15}{section*.72}%
+\contentsline {subsection}{Objetivo general}{15}{section*.73}%
+\contentsline {subsection}{Objetivos específicos}{15}{section*.74}%
+\contentsline {section}{Alcance}{15}{section*.75}%
+\contentsline {section}{Marco teórico}{15}{section*.76}%
+\contentsline {subsection}{Crazyflie 2.1}{15}{section*.77}%
+\contentsline {subsection}{Sistema de coordenadas de Crazyflie}{15}{section*.78}%
+\contentsline {subsection}{Comunicación inalámbrica de Crazyflie mediante Crazyradio}{15}{section*.79}%
+\contentsline {subsection}{Placa de expansión Flow Deck}{15}{section*.80}%
+\contentsline {subsection}{Odometría Visual}{15}{section*.81}%
+\contentsline {subsection}{Sensor de altura PMW3901}{15}{section*.82}%
+\contentsline {subsection}{Sensor de flujo óptico VL53L1x}{15}{section*.83}%
+\contentsline {subsection}{Librería de Python para Crazyflie}{15}{section*.84}%
+\contentsline {subsection}{Protocolo de empaquetamiento de datos CRTP}{15}{section*.85}%
+\contentsline {subsection}{Matlab}{15}{section*.86}%
+\contentsline {subsection}{Webots}{15}{section*.87}%
+\contentsline {section}{Integración, pruebas y validación de la placa de expansión Flow Deck}{15}{section*.88}%
+\contentsline {section}{Desarrollo de herramientas de software para uso de drones Crazyflie}{15}{section*.89}%
+\contentsline {section}{Conjunto de experimentos con drones Crazyflie}{15}{section*.90}%
+\contentsline {section}{Guías de laboratorio para cursos de sistemas de control 1 y 2}{15}{section*.91}%
+\contentsline {section}{Resultados}{15}{section*.92}%
+\contentsline {section}{Conclusiones}{15}{section*.93}%
+\contentsline {section}{Recomendaciones}{15}{section*.94}%
+\contentsline {section}{Bibliografía}{15}{section*.95}%
+\contentsline {section}{Anexos}{15}{section*.96}%
+\contentsline {section}{Glosario}{15}{section*.97}%

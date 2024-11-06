@@ -1,0 +1,138 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Prefacio}{\es@scroman {iii}}{section*.6}%
+\contentsline {chapter}{Lista de figuras}{\es@scroman {viii}}{section*.8}%
+\contentsline {chapter}{Lista de cuadros}{\es@scroman {ix}}{section*.9}%
+\contentsline {chapter}{Resumen}{\es@scroman {x}}{section*.10}%
+\contentsline {chapter}{Abstract}{\es@scroman {xi}}{section*.11}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.12}%
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.13}%
+\contentsline {section}{\numberline {2.1}Investigación con drones Crazyflie en la Universidad del Valle de Guatemala}{2}{section.14}%
+\contentsline {section}{\numberline {2.2}Ecosistema Robotat}{3}{section.16}%
+\contentsline {section}{\numberline {2.3}Incorporación de drones Crazyflie al ecosistema Robotat}{3}{section.18}%
+\contentsline {section}{\numberline {2.4}Vuelo autónomo del dron Crazyflie 2.1 empleando la placa de posicionamiento Flow Deck}{5}{section.20}%
+\contentsline {chapter}{\numberline {3}Justificación}{6}{chapter.21}%
+\contentsline {chapter}{\numberline {4}Objetivos}{7}{chapter.22}%
+\contentsline {section}{\numberline {4.1}Objetivo general}{7}{section.23}%
+\contentsline {section}{\numberline {4.2}Objetivos específicos}{7}{section.24}%
+\contentsline {chapter}{\numberline {5}Alcance}{8}{chapter.25}%
+\contentsline {chapter}{\numberline {6}Marco teórico}{9}{chapter.26}%
+\contentsline {section}{\numberline {6.1}Crazyflie 2.1 }{9}{section.27}%
+\contentsline {section}{\numberline {6.2}Sistema de coordenadas de dron Crazyflie}{10}{section.29}%
+\contentsline {section}{\numberline {6.3}Comunicación inalámbrica de dron Crazyflie}{11}{section.31}%
+\contentsline {section}{\numberline {6.4}Placa de expansión Flow Deck}{11}{section.33}%
+\contentsline {section}{\numberline {6.5}Odometría visual}{12}{section.36}%
+\contentsline {section}{\numberline {6.6}Sensor de flujo óptico PMW3901}{13}{section.38}%
+\contentsline {section}{\numberline {6.7}Sensor de medición de distancias VL53L1x}{13}{section.39}%
+\contentsline {section}{\numberline {6.8}Librería en Python para Crazyflie: cflib}{14}{section.40}%
+\contentsline {subsection}{\numberline {6.8.1}Estructura de la librería}{14}{subsection.41}%
+\contentsline {subsubsection}{Identificador uniforme de recursos (URI)}{14}{section*.42}%
+\contentsline {subsubsection}{Variables y parámetros}{14}{section*.43}%
+\contentsline {subsection}{\numberline {6.8.2}Módulos}{15}{subsection.44}%
+\contentsline {subsubsection}{Módulo Bootloader}{15}{section*.45}%
+\contentsline {subsubsection}{Módulo CPX}{15}{section*.46}%
+\contentsline {subsubsection}{Módulo Crazyflie}{15}{section*.47}%
+\contentsline {subsubsection}{Módulo CRTP}{16}{section*.48}%
+\contentsline {subsubsection}{Módulo Drivers}{16}{section*.49}%
+\contentsline {subsubsection}{Módulo Localization}{16}{section*.50}%
+\contentsline {subsubsection}{Módulo Positioning}{16}{section*.51}%
+\contentsline {subsubsection}{Módulo Utils}{16}{section*.52}%
+\contentsline {section}{\numberline {6.9}Módulo Crazyflie}{17}{section.53}%
+\contentsline {section}{\numberline {6.10}Módulo CRTP}{18}{section.54}%
+\contentsline {chapter}{\numberline {7}Integración y validación de la placa de expansión Flow Deck}{19}{chapter.55}%
+\contentsline {section}{\numberline {7.1}Validación de funcionamiento de Crazyflie}{19}{section.56}%
+\contentsline {subsection}{\numberline {7.1.1}Ensamble de Crazyflie}{19}{subsection.57}%
+\contentsline {subsection}{\numberline {7.1.2}Software Crazyclient y actualización de firmware de Crazyflie}{21}{subsection.60}%
+\contentsline {subsection}{\numberline {7.1.3}Configuración de parámetros}{21}{subsection.62}%
+\contentsline {subsection}{\numberline {7.1.4}Prueba de hélices y motores}{22}{subsection.63}%
+\contentsline {subsection}{\numberline {7.1.5}Prueba de vuelo simple}{22}{subsection.68}%
+\contentsline {section}{\numberline {7.2}Instalación de la placa de expansión Flow Deck}{23}{section.69}%
+\contentsline {subsection}{\numberline {7.2.1}Montaje y reconocimiento de la placa}{23}{subsection.70}%
+\contentsline {subsection}{\numberline {7.2.2}Pruebas de posicionamiento}{25}{subsection.75}%
+\contentsline {section}{\numberline {7.3}Adaptación de entorno}{25}{section.77}%
+\contentsline {subsection}{\numberline {7.3.1}Superficies y condiciones desfavorables}{26}{subsection.78}%
+\contentsline {subsection}{\numberline {7.3.2}Solución de entorno y observaciones}{27}{subsection.81}%
+\contentsline {chapter}{\numberline {8}Herramientas de software para control individual de dron Crazyflie}{28}{chapter.83}%
+\contentsline {section}{\numberline {8.1}Algoritmos de control básico en Python}{28}{section.84}%
+\contentsline {subsection}{\numberline {8.1.1}Instalación de librería cflib}{28}{subsection.85}%
+\contentsline {subsection}{\numberline {8.1.2}Uso de librería cflib y recursos adicionales}{31}{subsection.110}%
+\contentsline {subsubsection}{Módulos de cflib utilizados}{31}{section*.111}%
+\contentsline {subsubsection}{Recursos adicionales de Python utilizados}{31}{section*.112}%
+\contentsline {subsection}{\numberline {8.1.3}Desarrollo de algoritmos de control}{32}{subsection.113}%
+\contentsline {subsubsection}{Funciones de conexión}{32}{section*.114}%
+\contentsline {subsubsection}{Funciones de lectura de variables}{32}{section*.115}%
+\contentsline {subsubsection}{Funciones de configuración de parámetros}{34}{section*.116}%
+\contentsline {subsubsection}{Funciones de movimiento}{35}{section*.117}%
+\contentsline {subsection}{\numberline {8.1.4}Experimentos con algoritmos de control}{36}{subsection.118}%
+\contentsline {subsubsection}{Experimento simple de despegue y aterrizaje}{36}{section*.119}%
+\contentsline {subsubsection}{Experimento de despegue y aterrizaje con modificación del PID de posición Z}{37}{section*.134}%
+\contentsline {subsubsection}{Experimento de movimiento de punto a punto}{37}{section*.150}%
+\contentsline {section}{\numberline {8.2}Algoritmos de control básico desde Matlab}{38}{section.168}%
+\contentsline {subsection}{\numberline {8.2.1}Interfaz de Matlab para interacción con Python}{38}{subsection.169}%
+\contentsline {subsection}{\numberline {8.2.2}Configuración del entorno en Matlab}{38}{subsection.170}%
+\contentsline {subsubsection}{Ejecución de algoritmos de Python desde Matlab}{39}{section*.172}%
+\contentsline {subsection}{\numberline {8.2.3}Algoritmos de control en Python desde Matlab}{40}{subsection.197}%
+\contentsline {subsubsection}{Comandos de conexión en Matlab}{40}{section*.198}%
+\contentsline {subsubsection}{Comandos de lectura de variables en Matlab}{40}{section*.199}%
+\contentsline {subsubsection}{Comandos de configuración de parámetros en Matlab}{41}{section*.200}%
+\contentsline {subsubsection}{Comandos de movimiento en Matlab}{41}{section*.201}%
+\contentsline {subsection}{\numberline {8.2.4}Experimentos con algoritmos de control desde Matlab}{41}{subsection.202}%
+\contentsline {subsubsection}{Experimento de despegue simple}{41}{section*.203}%
+\contentsline {subsubsection}{Experimento de despegue con modificación en el control PID de posición z}{42}{section*.211}%
+\contentsline {subsubsection}{Experimento de seguimiento de trayectoria circular}{43}{section*.220}%
+\contentsline {section}{\numberline {8.3}Fusión de sensores}{45}{section.240}%
+\contentsline {subsection}{\numberline {8.3.1}Sistema de captura de movimiento y funcionamiento desde Matlab}{45}{subsection.241}%
+\contentsline {subsubsection}{Marcador reflectivo}{45}{section*.242}%
+\contentsline {subsection}{\numberline {8.3.2}Implementación de fusión de sensores}{47}{subsection.245}%
+\contentsline {subsubsection}{Función de actualización de posición externa en Python}{47}{section*.246}%
+\contentsline {subsubsection}{Event Callback en Matlab}{47}{section*.247}%
+\contentsline {subsubsection}{Sistema de corrección de posición}{47}{section*.248}%
+\contentsline {subsection}{\numberline {8.3.3}Pruebas de algoritmos de control con fusión de sensores desde Matlab}{47}{subsection.249}%
+\contentsline {section}{\numberline {8.4}Simuladores para dron Crazyflie 2.1}{49}{section.300}%
+\contentsline {subsection}{\numberline {8.4.1}Webots}{49}{subsection.301}%
+\contentsline {subsubsection}{Modelo de dron Crazyflie}{49}{section*.302}%
+\contentsline {subsubsection}{Alcance de simulaciones}{49}{section*.304}%
+\contentsline {chapter}{\numberline {9}Manual de usuario y guías de laboratorio desarrolladas}{50}{chapter.305}%
+\contentsline {section}{\numberline {9.1}Manual de usuario de Crazyflie con la placa Flow Deck}{50}{section.306}%
+\contentsline {subsection}{\numberline {9.1.1}Descripción}{50}{subsection.307}%
+\contentsline {subsection}{\numberline {9.1.2}Objetivos}{51}{subsection.308}%
+\contentsline {subsection}{\numberline {9.1.3}Prueba piloto}{51}{subsection.309}%
+\contentsline {subsubsection}{Descripción y condiciones de la prueba}{51}{section*.310}%
+\contentsline {subsubsection}{Material y Equipo Necesario}{51}{section*.311}%
+\contentsline {subsubsection}{Resulados y recomendaciones}{51}{section*.312}%
+\contentsline {section}{\numberline {9.2}Guía de laboratorio para Sistemas de Control 1: Control de altura del dron Crazyflie 2.1}{52}{section.313}%
+\contentsline {subsection}{\numberline {9.2.1}Descripción}{52}{subsection.314}%
+\contentsline {subsection}{\numberline {9.2.2}Objetivos}{52}{subsection.315}%
+\contentsline {subsection}{\numberline {9.2.3}Prueba piloto}{52}{subsection.316}%
+\contentsline {subsubsection}{Descripción y condiciones de la prueba}{52}{section*.317}%
+\contentsline {subsubsection}{Material y Equipo Necesario}{52}{section*.318}%
+\contentsline {subsubsection}{Resulados y recomendaciones}{53}{section*.319}%
+\contentsline {section}{\numberline {9.3}Guía de laboratorio para Robótica 1: Generación y seguimiento de trayectorias con Crazyflie 2.1}{54}{section.320}%
+\contentsline {subsection}{\numberline {9.3.1}Descripción}{54}{subsection.321}%
+\contentsline {subsection}{\numberline {9.3.2}Objetivos}{54}{subsection.322}%
+\contentsline {subsection}{\numberline {9.3.3}Prueba piloto}{54}{subsection.323}%
+\contentsline {subsubsection}{Descripción y condiciones de la prueba}{54}{section*.324}%
+\contentsline {subsubsection}{Material y Equipo Necesario}{54}{section*.325}%
+\contentsline {subsubsection}{Resulados y recomendaciones}{55}{section*.326}%
+\contentsline {chapter}{\numberline {10}Conclusiones}{56}{chapter.327}%
+\contentsline {chapter}{\numberline {11}Recomendaciones}{57}{chapter.328}%
+\contentsline {chapter}{\numberline {12}Bibliograf\'{\i }a}{58}{chapter.330}%
+\contentsline {chapter}{\numberline {13}Anexos}{61}{chapter.331}%
+\contentsline {section}{\numberline {13.1}Repositorio en GitHub}{61}{section.332}%
+\contentsline {section}{\numberline {13.2}Manual de usuario para Crazyflie 2.1 con la placa de expansión Flow Deck}{61}{section.333}%
+\contentsline {section}{\numberline {13.3}Laboratorio 1: Control PID de altura}{61}{section.334}%
+\contentsline {section}{\numberline {13.4}Laboratorio 2: Seguimiento de trayectorias}{61}{section.335}%
+\contentsline {section}{\numberline {13.5}Funciones de control desarrolladas en Python}{62}{section.336}%
+\contentsline {subsection}{\numberline {13.5.1}Función connect}{62}{subsection.337}%
+\contentsline {subsection}{\numberline {13.5.2}Función disconnect}{62}{subsection.354}%
+\contentsline {subsection}{\numberline {13.5.3}Función get\_pose}{63}{subsection.366}%
+\contentsline {subsection}{\numberline {13.5.4}Función get\_pid\_values}{64}{subsection.412}%
+\contentsline {subsection}{\numberline {13.5.5}Función get\_pid\_x}{64}{subsection.437}%
+\contentsline {subsection}{\numberline {13.5.6}Función detect\_flow\_deck}{65}{subsection.451}%
+\contentsline {subsection}{\numberline {13.5.7}Función set\_position}{65}{subsection.465}%
+\contentsline {subsection}{\numberline {13.5.8}Función set\_pid\_x}{65}{subsection.477}%
+\contentsline {subsection}{\numberline {13.5.9}Función set\_pid\_values}{66}{subsection.488}%
+\contentsline {subsection}{\numberline {13.5.10}Función takeoff}{66}{subsection.505}%
+\contentsline {subsection}{\numberline {13.5.11}Función land}{67}{subsection.521}%
+\contentsline {subsection}{\numberline {13.5.12}Función move\_to\_position}{67}{subsection.538}%
+\contentsline {chapter}{\numberline {14}Glosario}{68}{chapter.553}%

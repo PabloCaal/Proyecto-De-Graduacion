@@ -1,0 +1,396 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Sanabria2022_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=4098337efc9d5edfb56835d2c6b50c6c}{%
+           family={Sanabria},
+           familyi={S\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \strng{fullhash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \strng{bibnamehash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \strng{authorbibnamehash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \strng{authornamehash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \strng{authorfullhash}{4098337efc9d5edfb56835d2c6b50c6c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Diseño e implementación de una plataforma de pruebas para sistemas de control para el dron Crazyflie 2.0}
+      \field{year}{2022}
+    \endentry
+    \entry{Parafan2022_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=0ad91248ef36137fbacc84cc3e06975b}{%
+           family={Perafan},
+           familyi={P\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{0ad91248ef36137fbacc84cc3e06975b}
+      \strng{fullhash}{0ad91248ef36137fbacc84cc3e06975b}
+      \strng{bibnamehash}{0ad91248ef36137fbacc84cc3e06975b}
+      \strng{authorbibnamehash}{0ad91248ef36137fbacc84cc3e06975b}
+      \strng{authornamehash}{0ad91248ef36137fbacc84cc3e06975b}
+      \strng{authorfullhash}{0ad91248ef36137fbacc84cc3e06975b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Robotat: un ecosistema robótico de captura de movimiento y comunicación inalámbrica}
+      \field{year}{2022}
+    \endentry
+    \entry{Otzoy2023_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=c789b94785218aac5040df66a1a8e013}{%
+           family={Otzoy},
+           familyi={O\bibinitperiod},
+           given={Denny},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{c789b94785218aac5040df66a1a8e013}
+      \strng{fullhash}{c789b94785218aac5040df66a1a8e013}
+      \strng{bibnamehash}{c789b94785218aac5040df66a1a8e013}
+      \strng{authorbibnamehash}{c789b94785218aac5040df66a1a8e013}
+      \strng{authornamehash}{c789b94785218aac5040df66a1a8e013}
+      \strng{authorfullhash}{c789b94785218aac5040df66a1a8e013}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Uso del cuadricóptero Crazyflie dentro del ecosistema Robotat para la generación de trayectorias y la evasión de obstáculos}
+      \field{year}{2023}
+    \endentry
+    \entry{Gordillo2023_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=2f977ca7853e2130a42c38bcdef1ff29}{%
+           family={Gordillo},
+           familyi={G\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \strng{fullhash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \strng{bibnamehash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \strng{authorbibnamehash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \strng{authornamehash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \strng{authorfullhash}{2f977ca7853e2130a42c38bcdef1ff29}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Diseño e implementación de un paquete de herramientas de software para controlar inalámbricamente un enjambre de drones Crazyflie dentro de un ecosistema robótico basado en captura de movimiento}
+      \field{year}{2023}
+    \endentry
+    \entry{Avila2023_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=998a03fa50dfc06314c08d0371f91a5a}{%
+           family={Avila},
+           familyi={A\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{998a03fa50dfc06314c08d0371f91a5a}
+      \strng{fullhash}{998a03fa50dfc06314c08d0371f91a5a}
+      \strng{bibnamehash}{998a03fa50dfc06314c08d0371f91a5a}
+      \strng{authorbibnamehash}{998a03fa50dfc06314c08d0371f91a5a}
+      \strng{authornamehash}{998a03fa50dfc06314c08d0371f91a5a}
+      \strng{authorfullhash}{998a03fa50dfc06314c08d0371f91a5a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Adaptación del sistema de drones Crazyswarm al ecosistema Robotat}
+      \field{year}{2023}
+    \endentry
+    \entry{Garrido2023_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=4b3847cc6cba639139352c77757727eb}{%
+           family={Garrido},
+           familyi={G\bibinitperiod},
+           given={Brandon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Del Valle de Guatemala}%
+      }
+      \strng{namehash}{4b3847cc6cba639139352c77757727eb}
+      \strng{fullhash}{4b3847cc6cba639139352c77757727eb}
+      \strng{bibnamehash}{4b3847cc6cba639139352c77757727eb}
+      \strng{authorbibnamehash}{4b3847cc6cba639139352c77757727eb}
+      \strng{authornamehash}{4b3847cc6cba639139352c77757727eb}
+      \strng{authorfullhash}{4b3847cc6cba639139352c77757727eb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Tesis de licenciatura}
+      \field{title}{Levantamiento de una plataforma de pruebas para sistemas multidrones con OptiTrack y Crazyswarm}
+      \field{year}{2023}
+    \endentry
+    \entry{Chadehumbe2020_tesis}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=d468dd7e6223e85e32cfbe7178d29e98}{%
+           family={Chadehumbe},
+           familyi={C\bibinitperiod},
+           given={Chiedza},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e3f31f1567b0dba988c3a88bdd000de9}{%
+           family={Sjöberg},
+           familyi={S\bibinitperiod},
+           given={Josefine},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Uppsala}%
+      }
+      \strng{namehash}{f0d7d171aca14df129475a93f13f9c79}
+      \strng{fullhash}{f0d7d171aca14df129475a93f13f9c79}
+      \strng{bibnamehash}{f0d7d171aca14df129475a93f13f9c79}
+      \strng{authorbibnamehash}{f0d7d171aca14df129475a93f13f9c79}
+      \strng{authornamehash}{f0d7d171aca14df129475a93f13f9c79}
+      \strng{authorfullhash}{f0d7d171aca14df129475a93f13f9c79}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Independent thesis basic level (degree of Bachelor)}
+      \field{title}{Autonomous flight of the micro drone Crazyflie 2.1 through an obstacle course}
+      \field{year}{2020}
+    \endentry
+    \entry{Crazyflie}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/products/crazyflie-2-1/}}}
+      \field{note}{Accedido el {12/05/2024}}
+      \field{title}{{Crazyflie 2.1}}
+    \endentry
+    \entry{Sistema_Crazyflie}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/documentation/system/platform/cf2-coordinate-system/}}}
+      \field{note}{Accedido el {12/05/2024}}
+      \field{title}{{Sistema de coordenadas de Crazyflie 2.1}}
+    \endentry
+    \entry{Crazyradio}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/products/crazyradio-pa/}}}
+      \field{note}{Accedido el {12/05/2024}}
+      \field{title}{{Crazyradio}}
+    \endentry
+    \entry{FlowDeck}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/products/flow-deck-v2/}}}
+      \field{note}{Accedido el {12/05/2024}}
+      \field{title}{{Flow Deck v2}}
+    \endentry
+    \entry{Persson2022_book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=12eb3217c54234e8b8ac3cb0f151c06f}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Mikael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Linköping University}%
+      }
+      \strng{namehash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \strng{fullhash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \strng{bibnamehash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \strng{authorbibnamehash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \strng{authornamehash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \strng{authorfullhash}{12eb3217c54234e8b8ac3cb0f151c06f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{978-91-7929-168-6}
+      \field{title}{Visual Odometry in Principle and Practice}
+      \field{year}{2022}
+    \endentry
+    \entry{Funcionamiento_FlowDeck}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Estimación de estado con la placa de expansión Flow Deck}
+      \verb{urlraw}
+      \verb https://www.bitcraze.io/documentation/repository/crazyflie-firmware/master/functional-areas/sensor-to-control/state_estimators/#flowdeck-measurement-model
+      \endverb
+      \verb{url}
+      \verb https://www.bitcraze.io/documentation/repository/crazyflie-firmware/master/functional-areas/sensor-to-control/state_estimators/#flowdeck-measurement-model
+      \endverb
+      \warn{\item online entry 'Funcionamiento_FlowDeck' (m-bibliografia.bib): Invalid format '12/05/2024' of date field 'date' - ignoring}
+    \endentry
+    \entry{PMW3901_datasheet}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{PMW3901MB-TXQT: Optical Motion Tracking Chip}
+      \verb{urlraw}
+      \verb https://wiki.bitcraze.io/_media/projects:crazyflie2:expansionboards:pot0189-pmw3901mb-txqt-ds-r1.00-200317_20170331160807_public.pdf
+      \endverb
+      \verb{url}
+      \verb https://wiki.bitcraze.io/_media/projects:crazyflie2:expansionboards:pot0189-pmw3901mb-txqt-ds-r1.00-200317_20170331160807_public.pdf
+      \endverb
+      \warn{\item online entry 'PMW3901_datasheet' (m-bibliografia.bib): Invalid format '23/05/2024' of date field 'date' - ignoring}
+    \endentry
+    \entry{VL53L1x_datasheet}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{VL53L1X: Time-of-Flight (ToF) ranging sensor based on ST's FlightSense technology}
+      \verb{urlraw}
+      \verb https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html#overview
+      \endverb
+      \verb{url}
+      \verb https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html#overview
+      \endverb
+      \warn{\item online entry 'VL53L1x_datasheet' (m-bibliografia.bib): Invalid format '23/05/2024' of date field 'date' - ignoring}
+    \endentry
+    \entry{Crazyflie_Python}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/python_api/}}}
+      \field{note}{Accedido el {25/05/2024}}
+      \field{title}{{The Crazyflie Python API explanation}}
+    \endentry
+    \entry{Crazyflie_CRTP}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8851784d5a1819590f62efc28aea1cbf}{%
+           family={{Bitcraze}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{fullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{bibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorbibnamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authornamehash}{8851784d5a1819590f62efc28aea1cbf}
+      \strng{authorfullhash}{8851784d5a1819590f62efc28aea1cbf}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{{https://www.bitcraze.io/documentation/repository/crazyflie-firmware/master/functional-areas/crtp/}}}
+      \field{note}{Accedido el {25/05/2024}}
+      \field{title}{{CRTP - Communication with the Crazyflie}}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

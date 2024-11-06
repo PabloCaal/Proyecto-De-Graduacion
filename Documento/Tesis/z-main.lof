@@ -1,0 +1,47 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Plataforma de pruebas de la investigación de Sanabria \blx@tocontentsinit {0}\cite {Sanabria2022_tesis}.}}{2}{figure.caption.15}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Ecosistema de pruebas Robotat \blx@tocontentsinit {0}\cite {Parafan2022_tesis}.}}{3}{figure.caption.17}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Prueba de vuelo con 3 drones utilizando el \textit {software} Crazyswarm 2 \blx@tocontentsinit {0}\cite {Garrido2023_tesis}.}}{4}{figure.caption.19}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4}{\ignorespaces Dron Crazyflie 2.1 \blx@tocontentsinit {0}\cite {Crazyflie}.}}{9}{figure.caption.28}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Sistema de coordenadas de Crazyflie 2.1 \blx@tocontentsinit {0}\cite {Sistema_Crazyflie}.}}{10}{figure.caption.30}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Dispositivo de comunicación inalámbrica Crazyradio \blx@tocontentsinit {0}\cite {Crazyradio}.}}{11}{figure.caption.32}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Placa de expansión Flow Deck v2 \blx@tocontentsinit {0}\cite {FlowDeck}.}}{11}{figure.caption.34}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Funcionamiento de la placa Flow Deck y ecuación de estimación de posición \blx@tocontentsinit {0}\cite {Funcionamiento_FlowDeck}.}}{12}{figure.caption.35}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Diagrama de flujo óptico para estimación de posición con odometría visual \blx@tocontentsinit {0}\cite {Flujo_optico}.}}{12}{figure.caption.37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10}{\ignorespaces Ensamble correcto de dron Crazyflie 2.1.}}{20}{figure.caption.58}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Interfaz de control de vuelo del \textit {software} Crazyclient.}}{20}{figure.caption.59}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Actualización de \textit {firmware} con el programa Crazyclient.}}{21}{figure.caption.61}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Vista de consola y prueba de vibración en hélices y motores.}}{22}{figure.caption.64}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Vista frontal y trasera de la placa de expansión Flow Deck.}}{23}{figure.caption.71}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Vista inferior del dron Crazyflie con la placa Flow Deck instalada.}}{23}{figure.caption.72}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Reconocimiento de placa Flow Deck en vista de parámetros en cfclient.}}{24}{figure.caption.73}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Reconocimiento de placa Flow Deck en vista de control de vuelo en cfclient.}}{24}{figure.caption.74}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Prueba de vuelo y posicionamiento con placa Flow Deck integrada.}}{25}{figure.caption.76}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Superficies de prueba con pésimos resultados debido a condiciones anteriormente descritas.}}{26}{figure.caption.80}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Prototipo de superficie adaptada para el funcionamiento de la placa Flow Deck.}}{27}{figure.caption.82}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {22}{\ignorespaces Ejecución de comandos en la terminal de Windows.}}{29}{figure.caption.86}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Ejecución de algoritmo de prueba en \textit {Visual Studio Code}.}}{30}{figure.caption.109}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Terminal de comandos de Matlab con ejecución del comando pyversion.}}{39}{figure.caption.171}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Ejecución de script en Python de código \ref {code:prueba_conexion_crazyflie} desde Matlab.}}{40}{figure.caption.196}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Gráfica de altura contra tiempo del experimento de despegue simple.}}{42}{figure.caption.210}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Gráfica de altura contra tiempo del experimento de despegue con modificación de control PID de altura.}}{43}{figure.caption.219}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Gráfica 3D del seguimiento de trayectoria circular.}}{44}{figure.caption.238}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Gráfica de posición X contra Y y gráfiza de altura contra tiempo para el seguimiento de trayectoria circular.}}{44}{figure.caption.239}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Versiones iniciales del marker para Crazyflie.}}{46}{figure.caption.243}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Versión final de marcador reflectivo para dron Crazyflie.}}{46}{figure.caption.244}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Simulación de modelo Crazyflie 2.1 en Webots.}}{49}{figure.caption.303}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
