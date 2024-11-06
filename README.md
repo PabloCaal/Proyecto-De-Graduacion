@@ -14,3 +14,9 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
       - Manual de usuario: Instrucciones detalladas sobre la configuración y operación segura del dron Crazyflie 2.1 con la placa Flow Deck.
       - Guías de laboratorio: Experimentos y prácticas de laboratorio diseñadas para cursos universitarios, incluyendo temas como control de altura mediante PID y seguimiento de trayectorias.
 Este repositorio centraliza todos los recursos necesarios para realizar experimentos de control y navegación con el dron Crazyflie, permitiendo a estudiantes e investigadores utilizar y mejorar este sistema de manera accesible y segura.
+
+## Agradecimientos
+* Miguel Enrique Zea Arenales 
+
+---
+Por [PabloCaal](https://github.com/PabloCaal)
