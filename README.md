@@ -16,7 +16,7 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
 Este repositorio centraliza todos los recursos necesarios para realizar experimentos de control y navegación con el dron Crazyflie, permitiendo a estudiantes e investigadores utilizar y mejorar este sistema de manera accesible y segura.
 
 ## Agradecimientos
-* Miguel Enrique Zea Arenales 
-
+* Miguel Enrique Zea Arenales
+* Luis Alberto Rivera
 ---
 Por [PabloCaal](https://github.com/PabloCaal)
