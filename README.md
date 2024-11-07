@@ -6,7 +6,17 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
 </div>
 
 ## Índice
-* Colocar el índice de las distintas secciónes del README . . . 
+- [Descripción](#descripción)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Requisitos previos](#requisitos-previos)
+- [Instalación](#instalación)
+- [Uso](#uso)
+  - [Ejemplo de ejecución en Python](#ejemplo-de-ejecución-en-python)
+  - [Ejemplo de ejecución en Matlab](#ejemplo-de-ejecución-en-matlab)
+- [Ejemplos](#ejemplos)
+- [Documentación](#documentación)
+- [Licencia](#referencias)
+- [Referencias](#agradecimientos)
 
 ## Estructura del Repositorio
 - **Archivos CAD**: Modelos 3D y diseños CAD de las distintas secciones del proyecto.
@@ -14,6 +24,19 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
 - **Documento**: Documento del trabajo de graduación.
 - **Herramientas de software**: Herramientas de software y scripts necesarios para controlar al dron Crazyflie.
 - **Manual y laboratorios**: Guías prácticas y laboratorios para que los usuarios interactúen con el proyecto.
+
+## Requisitos previos
+
+## Instalación
+
+## Uso
+
+## Ejemplos
+
+## Documentación
+
+## Referencias
+
 
 ## Agradecimientos
 * Miguel Enrique Zea Arenales
