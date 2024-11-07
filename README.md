@@ -7,7 +7,7 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
 
 ## Índice
 - [Descripción](#descripción)
-- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Estructura del proyecto](#estructura-del-repositorio)
 - [Requisitos previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -18,7 +18,9 @@ _Este repositorio contiene el desarrollo de herramientas de software y documenta
 - [Licencia](#referencias)
 - [Referencias](#agradecimientos)
 
-## Estructura del Repositorio
+## Descripción
+
+## Estructura del repositorio
 - **Archivos CAD**: Modelos 3D y diseños CAD de las distintas secciones del proyecto.
 - **Archivos multimedia**: Imágenes y videos que ilustran el proyecto en acción.
 - **Documento**: Documento del trabajo de graduación.
