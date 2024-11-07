@@ -1,19 +1,19 @@
 # Desarrollo de herramientas de software para el control individual y seguro del cuadricóptero Crazyflie 2.1 utilizando la placa de expansión con posicionamiento Flow Deck
-_Este repositorio contiene el desarrollo de herramientas de software y documentación relacionada con el proyecto de control  individual, seguro y simple del cuadricóptero Crazyflie 2.1 utilizando la placa de expansión de posicionamiento Flow Deck. El objetivo es facilitar el uso independiente de este microdron en entornos educativos y de investigación en la Universidad del Valle de Guatemala._
+_Este repositorio contiene el desarrollo de herramientas de software y documentación relacionada con el proyecto de control  individual, seguro y simple del cuadricóptero Crazyflie 2.1 utilizando la placa de expansión de posicionamiento Flow Deck. El objetivo es facilitar el uso independiente de este microdron en entornos educativos y de investigación en la Universidad del Valle de Guatemala. Este repositorio centraliza todos los recursos necesarios para realizar experimentos de control y navegación con el dron Crazyflie, permitiendo a estudiantes e investigadores utilizar y mejorar este sistema de manera accesible y segura._
 
 <div align="center">
   <img src="Archivos multimedia/Figuras/Crazyflie_1.jpg" alt="Crazyflie 2.1" width="25%">
 </div>
 
+## Índice
+* Colocar el índice de las distintas secciónes del README . . . 
+
 ## Estructura del Repositorio
-  - Herramientas de software: Contiene los algoritmos y scripts desarrollados en Python y MATLAB para el control del dron. Incluye funciones para conexión, control de vuelo, y procesamiento de datos de los sensores integrados en la placa de expansión Flow Deck. Estos scripts permiten ejecutar experimentos de control y monitoreo de posición, y están diseñados para integrarse con sistemas de captura de movimiento y simuladores.
-
-  - Archivos CAD: Almacena todos los diseños CAD relacionados con el proyecto. Estos archivos pueden incluir modelos del dron y adaptaciones o accesorios necesarios para su integración con otros equipos de laboratorio. Son útiles para futuras modificaciones o mejoras físicas del sistema de prueba.
-
-  - Manual y laboratorios: Documentación para el usuario y guías prácticas para los cursos de Robótica y Sistemas de Control. Esta carpeta contiene:
-      - Manual de usuario: Instrucciones detalladas sobre la configuración y operación segura del dron Crazyflie 2.1 con la placa Flow Deck.
-      - Guías de laboratorio: Experimentos y prácticas de laboratorio diseñadas para cursos universitarios, incluyendo temas como control de altura mediante PID y seguimiento de trayectorias.
-Este repositorio centraliza todos los recursos necesarios para realizar experimentos de control y navegación con el dron Crazyflie, permitiendo a estudiantes e investigadores utilizar y mejorar este sistema de manera accesible y segura.
+- **Archivos CAD**: Modelos 3D y diseños CAD de las distintas secciones del proyecto.
+- **Archivos multimedia**: Imágenes y videos que ilustran el proyecto en acción.
+- **Documento**: Documento del trabajo de graduación.
+- **Herramientas de software**: Herramientas de software y scripts necesarios para controlar al dron Crazyflie.
+- **Manual y laboratorios**: Guías prácticas y laboratorios para que los usuarios interactúen con el proyecto.
 
 ## Agradecimientos
 * Miguel Enrique Zea Arenales
